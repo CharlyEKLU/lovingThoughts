@@ -48,7 +48,7 @@ export function YesPage({
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               backgroundRepeat: 'no-repeat',
-              zIndex: 0,
+              zIndex: 1,
             }}
           />
           <div

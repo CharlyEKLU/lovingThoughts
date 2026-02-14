@@ -14,7 +14,7 @@ import ouiGif from './assets/OUI.gif'
 import nonGif from './assets/NON.gif'
 import letterBackground from './assets/BackGround.jpg'
 import noBackground from './assets/sad-anime-4k.jpg'
-import loveSong from './assets/Amir - Longtemps (Clip officiel).mp3'
+import loveSong from './assets/Wiz Khalifa - See You Again ft. Charlie Puth [Official Video] Furious 7 Soundtrack.mp3'
 
 function App() {
   const [isSplashDone, setIsSplashDone] = useState(false)
