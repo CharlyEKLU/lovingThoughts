@@ -17,11 +17,11 @@ export default defineConfig({
         theme_color: '#fc208e',
         background_color: '#000000',
         display: 'standalone',
-        scope: '/',
-        start_url: '/',
+        scope: './',
+        start_url: './',
         icons: [
           {
-            src: '/IconeApk.png',
+            src: 'IconeApk.png',
             sizes: '512x512',
             type: 'image/png',
           },
